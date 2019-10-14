@@ -35,12 +35,10 @@
 
 | 机型名称                          | 发布地址                                                     | 教程地址                                                     | 备注                                                       |
 | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
-| Asus A411UF                       | [链接](https://github.com/faizauthar12/Asus_A411UF_Hackintosh) |                                                              |   S4000VA的主板型号为X411 配置接近                   |
-
-| Asus P8P67 PRO                    | [链接](https://github.com/rafaelmaeuer/Asus-P8P67Pro-Hackintosh) | [链接](https://github.com/rafaelmaeuer/Asus-P8P67Pro-Hackintosh/blob/master/readme.md) |    此配置跟此笔记本无关，我台式机配置几乎一直                                                        |
-                                                           |
-| Asus S4100VN          | [链接](https://github.com/loong1992/Asus_S4100VN8250U_Hackintosh) | [链接](https://github.com/loong1992/Asus_S4100VN8250U_Hackintosh/blob/master/README.md) | S4000跟S4100基本一致我用它的EFI一样完美，另外他对无线网卡方案总结比较细致                                           |                                                        |
-| Asus ZenBook 系列                 | [链接](https://github.com/hieplpvip/Asus-ZENBOOK-HACKINTOSH) | [链接](https://www.tonymacx86.com/threads/guide-Asus-zenbook-using-clover-uefi-hotpatch.257448/) | 华硕笔记本基本换汤不换药一套方案出了很多型号 你懂的 |
+| Asus S4100VN                       | [链接](https://github.com/loong1992/Asus_S4100VN8250U_Hackintosh) | [链接](https://github.com/loong1992/Asus_S4100VN8250U_Hackintosh/blob/master/README.md) |   S4000跟S4100基本一致我用它的EFI一样完美，另外他对无线网卡方案总结比较细致                   |
+| Asus P8P67 PRO                   | [链接](https://github.com/rafaelmaeuer/Asus-P8P67Pro-Hackintosh)  | [链接](https://github.com/rafaelmaeuer/Asus-P8P67Pro-Hackintosh/blob/master/readme.md) |   此配置跟此笔记本无关，我台式机配置几乎一样 |
+| Asus A411UF                         | [链接](https://github.com/faizauthar12/Asus_A411UF_Hackintosh) |                                                              |   S4000VA的主板型号为X411 配置接近                   |
+| Asus ZenBook 系列               | [链接](https://github.com/hieplpvip/Asus-ZENBOOK-HACKINTOSH) | [链接](https://www.tonymacx86.com/threads/guide-Asus-zenbook-using-clover-uefi-hotpatch.257448/) | 华硕笔记本基本换汤不换药一套方案出了很多型号 你懂的  |
 
 
 
