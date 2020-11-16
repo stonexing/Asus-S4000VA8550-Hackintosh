@@ -1,21 +1,22 @@
 # ASUS S4000VA Hackintosh 黑苹果相关文件
 ## 简介 
 ![截图](screenshot/S4000VA.jpg)
-这是华硕灵耀S4000VA（华硕超薄笔记本)的黑苹果相关文件, 这套配置我仅在苹果10.15(macOS Catalina和Mojave)上测试完美 本人自己笔记本每个细节都查阅很多资料进行优化 完美度较高。
+这是华硕灵耀S4000VA（华硕超薄笔记本)的黑苹果相关文件, 这套配置我仅在苹果10.14，14.15，11.0.1(macOS Catalina，Mojave，和Big Sur)上测试完美 本人自己笔记本每个细节都查阅很多资料进行优化 完美度较高。
 
 :warning: :warning: :warning: 
 
-本项目提供的EFI并不能通用于所有的华硕笔记本，直接覆盖EFI分区可能导致无法启动等问题。推荐了解clover和黑苹果驱动的相关知识后，参考config.plist和驱动修改自己的EFI文件，切勿直接盲目使用。
+本项目使用Opencore 0.6.3引导 OC只测试过11.0.1正式版。
+需要引导10.14或10.15的旧版系统 请移步到[release](https://github.com/stonexing/Asus-S4000VA8550-Hackintosh/releases)列表里查找旧版EFI
 
 有问题可以提issue，有时间我会尽可能的提供帮助。 
 ## 本机硬件
 - CPU: intel i7-8550U
 - 内存: 8GB板载
 - 硬盘: 1. M.2 512G 镁光 SSD; 2. SATA 480GB 东芝 SSD
-- 网卡/蓝牙：原始网卡无解，更换为BCM94352Z
+- 网卡/蓝牙：原始网卡无解，更换为BCM94352Z (此网卡为第三方卡，需要用文件夹中的指定config替换)
 - 显卡：HD620,无独显
 ## 哪些可以用？
-- [x] CPU变频
+- [x] CPU变频 （并不完美 还没找到原因 运行bug sur比较卡顿）
 - [x] 显卡硬件加速(QE/CI)
 - [x] 音频完美(自己动手仿冒附源码及教程) 插耳机自动切换 麦克风完美
 - [x] HDMI输出
