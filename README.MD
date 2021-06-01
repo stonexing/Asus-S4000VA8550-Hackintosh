@@ -1,3 +1,10 @@
+
+# ASUS S4000VA Hackintosh 黑苹果与Asus VivoBook S510UA相关文件通用 直接可食用 地址如下
+| 机型名称                          | 发布地址                                                     | 教程地址                                                     | 备注                                                       |
+| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| Asus S510UA                       | [链接](https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/) | [链接](https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/) |   2021年6月1日 经尝试直接使用S510 UA的EFI更为完美 请直接转到他那里下载使用[链接](https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/)                  |
+
+============================================
 # ASUS S4000VA Hackintosh 黑苹果相关文件
 ## 简介 
 ![截图](screenshot/S4000VA.jpg)
