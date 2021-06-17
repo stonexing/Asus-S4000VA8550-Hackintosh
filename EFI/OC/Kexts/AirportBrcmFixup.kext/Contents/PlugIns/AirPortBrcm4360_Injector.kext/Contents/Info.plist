@@ -36,7 +36,7 @@
 				<string>pci14e4,43a3</string>
 				<string>pci14e4,43b1</string>
 				<string>pci14e4,43b2</string>
-			</array>
+</array>
 			<key>IOProbeScore</key>
 			<integer>1110</integer>
 			<key>IOProviderClass</key>
