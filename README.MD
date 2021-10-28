@@ -4,6 +4,15 @@
 ![截图](screenshot/S4000VA.jpg)
 这是华硕灵耀S4000VA（华硕超薄笔记本)的黑苹果相关文件, 其他华硕笔记本如果cpu也是8代 8250U或者8550U 放心套用这个EFI就行。
 
+| Monterty正式版已经支持macOS 12.0.1 EFI                          | 请移步百度云                                                       |
+| --------------------------------- | ---------------------------------------------------------- |
+| Asus S4000VA  | [百度云链接](https://pan.baidu.com/s/1NXAVoQxgyGLo6dLkKISMdg) 提取码: gqer  |
+| Asus Vivobook X411UN | [百度云链接](https://pan.baidu.com/s/1NXAVoQxgyGLo6dLkKISMdg) 提取码: gqer  |
+
+
+
+
+
 :warning: :warning: :warning: 
 
 本项目使用Opencore引导 仅完美支持macOS 11.x Big Sur正式版。
